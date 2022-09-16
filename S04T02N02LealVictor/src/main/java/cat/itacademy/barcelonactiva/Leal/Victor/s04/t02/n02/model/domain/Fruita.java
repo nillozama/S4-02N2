@@ -17,7 +17,7 @@ public class Fruita {
 	private int id;
 	@Column (name="nom")
 	private String nom;
-	@Column (name="quantitat_Quilos")
+	@Column (name="quantitat_quilos")
 	private int quantitatQuilos;
 	
 	public int getId() {
